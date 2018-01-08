@@ -26,6 +26,6 @@ We are looking forward to continuing our research for better understanding water
 
 Do not hesitate to contact us for any question!
 
-[Alexander Izitskiy](https://vk.com/izh_rus)
+[Alexander Izitskiy](https://t.me/fearingil)
 
 [Georgy Ayzel](https://t.me/hydrogo)
