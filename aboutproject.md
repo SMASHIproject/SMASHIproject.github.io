@@ -10,7 +10,7 @@ The project is devoted to the Small Aral Sea water balance components investigat
 
 ## Funding
 
-The project was funded by the Russian Fund for Basic Research (grant number 17-05-01175).
+The project was funded by Russian Foundation for Basic Research (grant number 17-05-01175).
 
 ## History of the initiative
 
