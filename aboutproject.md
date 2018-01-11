@@ -4,7 +4,7 @@ title: About Project
 subtitle: Project history and details
 ---
 
-## The Small Aral Sea Hydrologic Investigations (SMASHI Project)
+## The Small Aral Sea Hydrological Investigation (SMASHI Project)
 
 The project is devoted to the Small Aral Sea water balance components investigation under changing climatic and anthropogenic conditions. We want to accumulate all relevant data sources and expertise to tackle difficulties in prediction and forecasting the modern state of the Small Aral Sea. Our solutions are open to reproduction and discussion by a community or interested citizen groups. We are highly motivated to raise the scientific discussion around the modern Aral Sea on a higher level.
 
