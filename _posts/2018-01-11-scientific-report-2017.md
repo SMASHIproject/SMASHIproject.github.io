@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Scientific report 2017
+title: Video discussion of the first year results
 ---
 Hi!
 
