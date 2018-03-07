@@ -2,6 +2,8 @@
 layout: post
 published: true
 title: Video discussion of the first year results
+date: '2018-03-07'
+subtitle: Enjoy watching!
 ---
 Hi!
 
