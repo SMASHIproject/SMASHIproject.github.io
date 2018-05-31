@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: SMASHI results on "КИМО-2018"
 subtitle: 'Saint Petersburg 21-25, May, 2018'
 date: '2018-31-05'
