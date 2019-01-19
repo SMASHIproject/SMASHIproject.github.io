@@ -5,7 +5,7 @@ title: Beta-Version of the web-application now published
 date: '2019-01-15'
 subtitle: New data is available
 ---
-We are happy to present the beta-Version of the new SMASHI-web application, that is availabel here on the project web-site. 
+We are happy to present the beta-Version of the new SMASHI-web application, that is available here on the project web-site. 
 Application provides opportunity to visualize time-series of the newly obtained data, which includes all considered components of the present-day Small Aral Sea water balance
 
 Please, find the App here: https://smashiproject.github.io/WB/
