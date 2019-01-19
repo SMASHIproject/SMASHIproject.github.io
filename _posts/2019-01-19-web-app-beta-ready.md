@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Web-app beta ready
 date: '2019-01-15'
 subtitle: New data is available
