@@ -24,6 +24,7 @@ description: The Small Aral Sea Hydrologic Investigations project led by Alex Iz
 # List of links in the navigation bar
 navbar-links:
   About Project: "aboutproject"
+  App: "https://smashiproject.github.io/WB/"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
